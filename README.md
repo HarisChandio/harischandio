@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haris</h1>
-<h3 align="center">A passionate MERN Stack Developer </h3>
+<h3 align="center">A Problem Solver </h3>
 
 - 🔭 I’m currently working on **Podverse**
 
