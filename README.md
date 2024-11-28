@@ -3,8 +3,8 @@
 <div align="center">
 </div>
 
-<h1 align="center">Hi I'm Haris Chandio </h1>
-<h3 align="center">A passionate Software Developer, I like turning great ideas into even better softwares. Working for ideas and learning from people</h3>
+<h1 align="center">Hi, I'm Haris Chandio</h1>  
+<h3 align="center">I like turning great ideas into even better software, working on ideas, and learning from people.</h3>  
 
 ###
 
