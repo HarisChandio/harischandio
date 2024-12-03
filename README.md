@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Haris Chandio</h1>  
-<h3 align="center">I like turning great ideas into even better software, working on ideas, and learning from people.</h3>  
+<h3 align="center">Working on turning great ideas into even better software. Growing with God speed and learning from people.</h3>  
 
 ###
 
