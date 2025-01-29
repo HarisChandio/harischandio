@@ -64,5 +64,9 @@
 </div>
 
 
+<div>
+  <a href="https://app.daily.dev/harischandio"><img src="https://api.daily.dev/devcards/v2/UwVUakKlANhTCaORLB1Qi.png?type=default&r=pvk" width="356" alt="Haris Chandio's Dev Card"/></a>
+</div>
+
 
 
