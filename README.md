@@ -1,33 +1,72 @@
-<br clear="both">
+# 👋 Hi, I’m Haris Chandio
 
-<div align="center">
-</div>
+🧠 **Building a SaaS product or AI tool?**  
+You don’t need a developer who just writes code — you need one who understands the **product**.
 
-<h1 align="center">Hi, I'm Haris Chandio</h1>  
-<h3 align="center">Working on turning great ideas into even better software. Growing with God speed and learning from people.</h3>  
+I help startups and teams turn complex ideas into **fast, scalable, and user-friendly platforms**, from internal tools to AI-powered dashboards — including products that scaled to **100k+ users** and generated **$1M+ ARR**.
 
-###
+I’m a **Full-Stack Web Developer** focused on SaaS platforms, AI-integrated tools, and custom dashboards using **React**, **Next.js**, **Python**, and **Tailwind CSS**.  
+I turn **bullet points into working software**, fast.
 
-<br clear="both">
+---
 
-###
+## 🧩 Core Focus Areas
 
+### ✅ SaaS Platforms (MVP to Scale)
+- Multi-tenant architecture, user authentication, and subscription logic  
+- Admin panels, dashboards, CRUD features  
+- Stripe/PayPal integration, email workflows, analytics setup
 
-###
+### ✅ AI-Powered Tools & Automation
+- GPT-4 / OpenAI API integration  
+- Custom AI features: smart chatbots, document processors, content tools  
+- LangChain, Pinecone, vector search & prompt engineering
 
+### ✅ Admin Dashboards & Internal Tools
+- Clean UI for internal teams (marketing, ops, support)  
+- Real-time data, filters, activity logs, audit trails  
+- Role-based access, notifications, and reports
 
-###
+### ✅ API-Driven Architecture
+- REST & GraphQL APIs using Django, FastAPI, and Node.js  
+- Scalable backend logic, background jobs, webhook handling  
+- Secure token-based authentication systems
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/haris-chandio" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="52" height="40" alt="linkedin logo" />
-  </a>
-</div>
+### ✅ Modern Frontend Development
+- React + Next.js apps (SSR/SSG for performance)  
+- Tailwind CSS, Chakra UI, or MUI-based design systems  
+- Pixel-perfect UI with reusable components
 
+---
 
-<div>
-  <a href="https://app.daily.dev/harischandio"><img src="https://api.daily.dev/devcards/v2/UwVUakKlANhTCaORLB1Qi.png?type=default&r=pvk" width="356" alt="Haris Chandio's Dev Card"/></a>
-</div>
+## 🛠 Tech I Use Daily
 
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Python (Django, FastAPI), Node.js  
+- **Databases:** PostgreSQL, Firebase, MongoDB  
+- **AI & Automation:** OpenAI API, LangChain, Pinecone  
+- **DevOps & Tools:** Docker, Vercel, AWS Lambda, Stripe, GitHub Actions
 
+---
 
+## 💡 Why Work With Me?
+
+✔ 5+ years building real-world SaaS & AI tools  
+✔ MVP-ready development — from scratch to launch  
+✔ Clear communication, documented code, and clean handoff  
+✔ Built for scale: clean architecture, DevOps-ready  
+✔ Feedback-friendly and easy to work with
+
+---
+
+## 📬 Let’s Launch Your SaaS or AI Product
+
+Got something real to build?  
+💌 Drop me a message — I’d love to hear what you’re working on and see how I can help.
+
+---
+
+### 🏷 Keywords
+SaaS developer, AI tool developer, full stack for SaaS, admin dashboard developer, OpenAI API developer, AI chatbot integration, React developer for SaaS, Next.js developer for startup, Stripe SaaS developer, multi-tenant SaaS, Python backend for AI, LangChain developer, vector DB integration, prompt engineering, content generation tool developer, GPT-powered app, dashboard UI developer, Tailwind CSS dashboard, backend API developer, subscription-based platform, internal tool builder, CRM clone builder, project management dashboard.
+
+---
