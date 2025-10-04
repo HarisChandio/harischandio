@@ -59,14 +59,3 @@ I turn **bullet points into working software**, fast.
 
 ---
 
-## 📬 Let’s Launch Your SaaS or AI Product
-
-Got something real to build?  
-💌 Drop me a message — I’d love to hear what you’re working on and see how I can help.
-
----
-
-### 🏷 Keywords
-SaaS developer, AI tool developer, full stack for SaaS, admin dashboard developer, OpenAI API developer, AI chatbot integration, React developer for SaaS, Next.js developer for startup, Stripe SaaS developer, multi-tenant SaaS, Python backend for AI, LangChain developer, vector DB integration, prompt engineering, content generation tool developer, GPT-powered app, dashboard UI developer, Tailwind CSS dashboard, backend API developer, subscription-based platform, internal tool builder, CRM clone builder, project management dashboard.
-
----
