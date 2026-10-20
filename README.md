@@ -3,7 +3,7 @@
 🧠 **Building a SaaS product or AI tool?**  
 You don’t need a developer who just writes code — you need one who understands the **product**.
 
-I help startups and teams turn complex ideas into **fast, scalable, and user-friendly platforms**, from internal tools to AI-powered dashboards — including products that scaled to **100k+ users** and generated **$1M+ ARR**.
+I help startups and teams turn complex ideas into **fast, scalable, and user-friendly platforms**, from internal tools to AI-powered dashboards — including products that scaled to **10k+ users** and generated **$20-30K+ ARR**.
 
 I’m a **Full-Stack Web Developer** focused on SaaS platforms, AI-integrated tools, and custom dashboards using **React**, **Next.js**, **Python**, and **Tailwind CSS**.  
 I turn **bullet points into working software**, fast.
